@@ -1,7 +1,6 @@
-# Thesis Project
+Thesis Project
 
-Multicloud VPC connectivity using HA VPN gateways, provisioned via Terraform for GCP and AWS.
-
+## Multicloud VPC connectivity options comparison
 
 ## Useful Commands
 
